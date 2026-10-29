@@ -8,13 +8,13 @@ A native macOS desktop toy inspired by Miroslav Němeček’s *Desktop Games / D
 
 Obviously no telemetry, and no auto-updates (we have updates, of course, but checking for them is strictly manual. Why would a simple desktop toy even need an auto-update checker running in the background?). Just a sandboxed, zero-escalation, native Mac toy.
 
-**[Download DeskSmash](https://github.com/ygtarslan/desksmash-releases/releases/download/desksmash-v1.1.1/DeskSmash-latest.dmg)**
+**[Download DeskSmash](https://github.com/ygtarslan/desksmash-releases/releases/download/desksmash-v1.1.2/DeskSmash-latest.dmg)**
 
-`SHA-256 (DMG): 50f2c83e5d2c94b834f532089cd17597b385fd70b43f1c38478faabcbf197bb1`
+`SHA-256 (DMG): 3412dac3219aff2990363c774553528b59dacaf78c8bebc171e1702bee550a67`
 
 Requires macOS 15.0 or later. Supports Apple Silicon and Intel Macs.<br/>
 Made for macOS, with spatial audio, trackpad haptics, and ProMotion refresh rate support.<br/>
-*Version 1.1.1 fixes tool-pointer tracking on macOS 27.2. [Release notes](https://desksmash.ygtars.com/release-notes).*
+*Version 1.1.2 refines the toolbar and fixes update-status reporting. [Release notes](https://desksmash.ygtars.com/release-notes).*
 
 ![DeskSmash toolbar with native window controls, tool selection, and Classic and Peaceful modes](docs/assets/toolbar-1.1.png)
 
@@ -111,7 +111,7 @@ Download DeskSmash and take it for a spin on your desktop.
 
 Find DeskSmash on [GitHub Releases](https://github.com/ygtarslan/desksmash-releases) and [itch.io](https://ygtars.itch.io/desksmash).
 
-**[Download DeskSmash 1.1.1](https://github.com/ygtarslan/desksmash-releases/releases/download/desksmash-v1.1.1/DeskSmash-latest.dmg)**
+**[Download DeskSmash 1.1.2](https://github.com/ygtarslan/desksmash-releases/releases/download/desksmash-v1.1.2/DeskSmash-latest.dmg)**
 
 [Support](mailto:ygtars@ygtars.com) · [Privacy Policy](https://desksmash.ygtars.com/privacy) · [Terms of Use](https://desksmash.ygtars.com/terms)<br/>
 © 2026 Yiğit Arslan.

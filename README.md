@@ -8,13 +8,13 @@ A native macOS desktop toy inspired by Miroslav Němeček’s *Desktop Games / D
 
 Obviously no telemetry, and no auto-updates (we have updates, of course, but checking for them is strictly manual. Why would a simple desktop toy even need an auto-update checker running in the background?). Just a sandboxed, zero-escalation, native Mac toy.
 
-**[Download DeskSmash](https://github.com/ygtarslan/desksmash-releases/releases/download/desksmash-v1.1.2/DeskSmash-latest.dmg)**
+**[Download DeskSmash](https://github.com/ygtarslan/desksmash-releases/releases/download/desksmash-v1.1.3/DeskSmash-latest.dmg)**
 
-`SHA-256 (DMG): 3412dac3219aff2990363c774553528b59dacaf78c8bebc171e1702bee550a67`
+`SHA-256 (DMG): eda67f3eabba4a5926c0eb0a66ee280544fe3b4c49ff8c6dd748e7aa43203834`
 
 Requires macOS 15.0 or later. Supports Apple Silicon and Intel Macs.<br/>
 Made for macOS, with spatial audio, trackpad haptics, and ProMotion refresh rate support.<br/>
-*Version 1.1.2 refines the toolbar and fixes update-status reporting. [Release notes](https://desksmash.ygtars.com/release-notes).*
+*Version 1.1.3 adds recoil, muzzle flashes, tracers, shell casings, and firing spread to the Machine Gun. [Release notes](https://desksmash.ygtars.com/release-notes).*
 
 ![DeskSmash toolbar with native window controls, tool selection, and Classic and Peaceful modes](docs/assets/toolbar-1.1.png)
 
@@ -63,7 +63,7 @@ Play with ribbons, confetti, bubbles, and little games. Critters stay completely
 ## Every tool has its own feel.
 
 **Machine Gun**<br/>
-As much immersion as a Mac can offer for a virtual machine gun, with positional audio and rapid shooting feedback through trackpad vibrations.
+Recoil, muzzle flashes, tracers, shell casings, and a crosshair that opens as you keep firing. Positional audio and rapid trackpad vibrations add to each shot.
 
 **Bubble Gun**<br/>
 Tune the water-to-soap mix from fast, lively little bubbles to big floating ones.
@@ -111,7 +111,7 @@ Download DeskSmash and take it for a spin on your desktop.
 
 Find DeskSmash on [GitHub Releases](https://github.com/ygtarslan/desksmash-releases) and [itch.io](https://ygtars.itch.io/desksmash).
 
-**[Download DeskSmash 1.1.2](https://github.com/ygtarslan/desksmash-releases/releases/download/desksmash-v1.1.2/DeskSmash-latest.dmg)**
+**[Download DeskSmash 1.1.3](https://github.com/ygtarslan/desksmash-releases/releases/download/desksmash-v1.1.3/DeskSmash-latest.dmg)**
 
 [Support](mailto:ygtars@ygtars.com) · [Privacy Policy](https://desksmash.ygtars.com/privacy) · [Terms of Use](https://desksmash.ygtars.com/terms)<br/>
 © 2026 Yiğit Arslan.

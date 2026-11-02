@@ -14,7 +14,6 @@ Obviously no telemetry, and no auto-updates (we have updates, of course, but che
 
 Requires macOS 15.0 or later. Supports Apple Silicon and Intel Macs.<br/>
 Made for macOS, with spatial audio, trackpad haptics, and ProMotion refresh rate support.<br/>
-*Version 1.1.3 adds recoil, muzzle flashes, tracers, shell casings, and firing spread to the Machine Gun. [Release notes](https://desksmash.ygtars.com/release-notes).*
 
 ![DeskSmash toolbar with native window controls, tool selection, and Classic and Peaceful modes](docs/assets/toolbar-1.1.png)
 

@@ -109,9 +109,10 @@ When you’re in a presentation or screen share (not sure why you’d be running
 
 Download DeskSmash and take it for a spin on your desktop.
 
-Find DeskSmash on [GitHub Releases](https://github.com/ygtarslan/desksmash-releases) and [itch.io](https://ygtars.itch.io/desksmash).
+Find DeskSmash on [itch.io](https://ygtars.itch.io/desksmash).
 
 **[Download DeskSmash 1.1.3](https://github.com/ygtarslan/desksmash-releases/releases/download/desksmash-v1.1.3/DeskSmash-latest.dmg)**
 
 [Support](mailto:ygtars@ygtars.com) · [Privacy Policy](https://desksmash.ygtars.com/privacy) · [Terms of Use](https://desksmash.ygtars.com/terms)<br/>
+
 © 2026 Yiğit Arslan.
